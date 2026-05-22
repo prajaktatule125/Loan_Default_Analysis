@@ -92,6 +92,8 @@ The analysis can help financial institutions:
 - Pivot analysis visuals
 
 ---
+## Data Source
+- https://www.kaggle.com/datasets/yasserh/loan-default-dataset
 
 ## Author
 Prajakta Tule
